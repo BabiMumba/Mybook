@@ -11,7 +11,7 @@ import android.widget.LinearLayout
 import android.widget.TextView
 import android.widget.Toast
 import androidx.recyclerview.widget.RecyclerView
-import com.babimumba.schoolapp.Model.Comment
+import com.babimumba.mybook.Model.Comment
 import com.babimumba.mybook.Model.User
 import com.babimumba.mybook.MyApplication
 import com.babimumba.mybook.Unit.DATA

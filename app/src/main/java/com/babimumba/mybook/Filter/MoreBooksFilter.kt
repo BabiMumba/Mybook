@@ -2,7 +2,7 @@ package com.babimumba.mybook.Filter
 
 import android.widget.Filter
 import com.babimumba.mybook.Adapter.LinearBookAdapter
-import com.babimumba.schoolapp.Model.Book
+import com.babimumba.mybook.Model.Book
 import java.util.*
 
 class MoreBooksFilter(var list: ArrayList<Book?>, var adapter: LinearBookAdapter) : Filter() {

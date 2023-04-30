@@ -7,7 +7,7 @@ import android.view.ViewGroup
 import android.widget.*
 import androidx.recyclerview.widget.RecyclerView
 import com.babimumba.mybook.R
-import com.babimumba.schoolapp.Filter.PublisherFilter
+import com.babimumba.mybook.Filter.PublisherFilter
 import com.babimumba.mybook.Model.User
 import com.babimumba.mybook.Unit.CLASS
 import com.babimumba.mybook.Unit.DATA

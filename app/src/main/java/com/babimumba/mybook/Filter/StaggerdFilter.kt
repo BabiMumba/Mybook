@@ -2,7 +2,7 @@ package com.babimumba.mybook.Filter
 
 import android.widget.Filter
 import com.babimumba.mybook.Adapter.StaggeredBookAdapter
-import com.babimumba.schoolapp.Model.Book
+import com.babimumba.mybook.Model.Book
 import java.util.*
 
 class StaggerdFilter(var list: ArrayList<Book?>, var adapter: StaggeredBookAdapter) : Filter() {

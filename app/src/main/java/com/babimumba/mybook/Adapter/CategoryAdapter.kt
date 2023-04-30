@@ -6,7 +6,7 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.ImageView
 import androidx.recyclerview.widget.RecyclerView
-import com.babimumba.schoolapp.Model.Category
+import com.babimumba.mybook.Model.Category
 import com.babimumba.mybook.Unit.CLASS
 import com.babimumba.mybook.databinding.ItemCategoryBinding
 import com.babimumba.mybook.Unit.DATA

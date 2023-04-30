@@ -8,7 +8,7 @@ import android.view.View
 import androidx.appcompat.app.AppCompatActivity
 import com.babimumba.mybook.databinding.ActivityPageLinearSwitchBinding
 import com.babimumba.mybook.Adapter.LinearBookAdapter
-import com.babimumba.schoolapp.Model.Book
+import com.babimumba.mybook.Model.Book
 import com.babimumba.mybook.Unit.DATA
 import com.babimumba.mybook.R
 import com.babimumba.mybook.Unit.THEME

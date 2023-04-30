@@ -7,8 +7,8 @@ import android.text.TextWatcher
 import android.view.View
 import androidx.appcompat.app.AppCompatActivity
 import com.babimumba.mybook.databinding.ActivityPageStaggeredSwitchBinding
-import com.babimumba.schoolapp.Adapter.StaggeredBookAdapter
-import com.babimumba.schoolapp.Model.Book
+import com.babimumba.mybook.Adapter.StaggeredBookAdapter
+import com.babimumba.mybook.Model.Book
 import com.babimumba.mybook.Unit.DATA
 import com.babimumba.mybook.R
 import com.babimumba.mybook.Unit.THEME

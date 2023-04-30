@@ -11,8 +11,8 @@ import androidx.recyclerview.widget.RecyclerView
 import com.babimumba.mybook.Adapter.CategoryAdapter
 import com.babimumba.mybook.Adapter.ImageSliderAdapter
 import com.babimumba.mybook.Adapter.MainBookAdapter
-import com.babimumba.schoolapp.Model.Book
-import com.babimumba.schoolapp.Model.Category
+import com.babimumba.mybook.Model.Book
+import com.babimumba.mybook.Model.Category
 import com.babimumba.mybook.Unit.CLASS
 import com.babimumba.mybook.Unit.DATA
 import com.babimumba.mybook.Unit.VOID

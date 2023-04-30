@@ -6,7 +6,7 @@ import android.view.View
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
-import com.babimumba.schoolapp.Model.Book
+import com.babimumba.mybook.Model.Book
 import com.babimumba.mybook.Unit.CLASS
 import com.babimumba.mybook.Unit.DATA
 import com.babimumba.mybook.Unit.THEME

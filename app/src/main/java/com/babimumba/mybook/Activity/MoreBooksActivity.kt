@@ -9,7 +9,7 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.RecyclerView
 import com.babimumba.mybook.databinding.ActivityPageLinearBinding
 import com.babimumba.mybook.Adapter.LinearBookAdapter
-import com.babimumba.schoolapp.Model.Book
+import com.babimumba.mybook.Model.Book
 import com.babimumba.mybook.Unit.DATA
 import com.babimumba.mybook.Unit.THEME
 import com.babimumba.mybook.Unit.VOID

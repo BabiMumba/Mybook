@@ -6,7 +6,7 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import com.babimumba.mybook.Adapter.SettingAdapter
-import com.babimumba.schoolapp.Model.Book
+import com.babimumba.mybook.Model.Book
 import com.babimumba.mybook.Model.Setting
 import com.babimumba.mybook.R
 import com.babimumba.mybook.Model.User

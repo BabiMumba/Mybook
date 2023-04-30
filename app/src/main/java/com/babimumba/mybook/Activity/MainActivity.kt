@@ -13,10 +13,10 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.Fragment
 import androidx.preference.PreferenceFragmentCompat
 import com.etebarian.meowbottomnavigation.MeowBottomNavigation
-import com.babimumba.schoolapp.Fragment.CategoriesFragment
-import com.babimumba.schoolapp.Fragment.FollowersFragment
-import com.babimumba.schoolapp.Fragment.HomeFragment
-import com.babimumba.schoolapp.Fragment.SettingsFragment
+import com.babimumba.mybook.Fragment.CategoriesFragment
+import com.babimumba.mybook.Fragment.FollowersFragment
+import com.babimumba.mybook.Fragment.HomeFragment
+import com.babimumba.mybook.Fragment.SettingsFragment
 import com.babimumba.mybook.Unit.CLASS
 import com.babimumba.mybook.Unit.DATA
 import com.babimumba.mybook.Unit.THEME

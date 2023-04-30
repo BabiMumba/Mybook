@@ -18,8 +18,8 @@ import com.babimumba.mybook.databinding.ActivityBookDetailsBinding
 import com.babimumba.mybook.databinding.DialogCommentAddBinding
 import com.babimumba.mybook.MyApplication
 import com.babimumba.mybook.Adapter.CommentAdapter
-import com.babimumba.schoolapp.Model.Book
-import com.babimumba.schoolapp.Model.Comment
+import com.babimumba.mybook.Model.Book
+import com.babimumba.mybook.Model.Comment
 import com.babimumba.mybook.Model.User
 import com.babimumba.mybook.Unit.CLASS
 import com.babimumba.mybook.Unit.DATA

@@ -1,6 +1,5 @@
 <resources>
-    <string name="app_name">SchoolAPP</string>
-
+    <string name="app_name">My bestBook</string>
     <string name="new_user_signup">SignUp</string>
     <string name="email">Email</string>
     <string name="password">Password</string>

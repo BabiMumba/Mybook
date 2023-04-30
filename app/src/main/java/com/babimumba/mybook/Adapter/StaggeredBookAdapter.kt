@@ -6,8 +6,8 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.*
 import androidx.recyclerview.widget.RecyclerView
-import com.babimumba.schoolapp.Filter.StaggerdFilter
-import com.babimumba.schoolapp.Model.Book
+import com.babimumba.mybook.Filter.StaggerdFilter
+import com.babimumba.mybook.Model.Book
 import com.babimumba.mybook.Unit.CLASS
 import com.babimumba.mybook.Unit.DATA
 import com.babimumba.mybook.Unit.VOID

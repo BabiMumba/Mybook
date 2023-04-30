@@ -8,7 +8,7 @@ import android.widget.ImageView
 import android.widget.TextView
 import androidx.cardview.widget.CardView
 import androidx.recyclerview.widget.RecyclerView
-import com.babimumba.schoolapp.Model.Category
+import com.babimumba.mybook.Model.Category
 import com.babimumba.mybook.Unit.CLASS
 import com.babimumba.mybook.databinding.ItemCategoryMainBinding
 import com.babimumba.mybook.Unit.DATA

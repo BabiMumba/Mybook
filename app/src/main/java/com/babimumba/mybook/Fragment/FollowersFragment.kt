@@ -6,7 +6,7 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import com.babimumba.mybook.Adapter.LinearBookAdapter
-import com.babimumba.schoolapp.Model.Book
+import com.babimumba.mybook.Model.Book
 import com.babimumba.mybook.Unit.DATA
 import com.babimumba.mybook.Unit.VOID
 import com.babimumba.mybook.databinding.FragmentFollowersBinding
