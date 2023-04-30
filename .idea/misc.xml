@@ -3,7 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android_app/MyBook2/app/src/main/res/layout/activity_auth.xml" value="0.18645833333333334" />
+        <entry key="..\:/Android_app/MyBook2/app/src/main/res/layout/activity_book_add.xml" value="0.18645833333333334" />
+        <entry key="..\:/Android_app/MyBook2/app/src/main/res/layout/activity_book_details.xml" value="0.18645833333333334" />
+        <entry key="..\:/Android_app/MyBook2/app/src/main/res/layout/activity_book_edit.xml" value="0.18645833333333334" />
+        <entry key="..\:/Android_app/MyBook2/app/src/main/res/layout/activity_book_view.xml" value="0.18645833333333334" />
+        <entry key="..\:/Android_app/MyBook2/app/src/main/res/layout/activity_forget_password.xml" value="0.18645833333333334" />
         <entry key="..\:/Android_app/MyBook2/app/src/main/res/layout/activity_main.xml" value="0.18645833333333334" />
+        <entry key="..\:/Android_app/MyBook2/app/src/main/res/layout/activity_page_linear.xml" value="0.18645833333333334" />
+        <entry key="..\:/Android_app/MyBook2/app/src/main/res/layout/item_setting.xml" value="0.18645833333333334" />
+        <entry key="..\:/Android_app/MyBook2/app/src/main/res/layout/toolbar_page.xml" value="0.18645833333333334" />
       </map>
     </option>
   </component>
