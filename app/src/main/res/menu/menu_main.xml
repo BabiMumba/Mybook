@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+   
+    <item
+        android:id="@+id/action_search"
+        android:orderInCategory="100"
+        android:title="Recherche"
+        android:icon="@drawable/ic_baseline_search_24"
+        app:showAsAction="ifRoom"
+        app:actionViewClass="android.widget.SearchView" />
+    <item
+        android:id="@+id/action_refrech"
+        android:orderInCategory="100"
+        android:title="Actualiser"
+        android:icon="@drawable/ic_baseline_refresh_24"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/action_about"
+        android:orderInCategory="100"
+        android:title="A propos"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_exit"
+        android:orderInCategory="100"
+        android:title="Quitter"
+        app:showAsAction="never"/>
+
+</menu>
